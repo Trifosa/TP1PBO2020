@@ -1,0 +1,10 @@
+D:\Kuliah\Semester4\PrakPBO\TP\TP1\TP1\bin\Debug\TP1.exe.config
+D:\Kuliah\Semester4\PrakPBO\TP\TP1\TP1\bin\Debug\TP1.exe
+D:\Kuliah\Semester4\PrakPBO\TP\TP1\TP1\bin\Debug\TP1.pdb
+D:\Kuliah\Semester4\PrakPBO\TP\TP1\TP1\obj\Debug\TP1.csprojAssemblyReference.cache
+D:\Kuliah\Semester4\PrakPBO\TP\TP1\TP1\obj\Debug\TP1.Form1.resources
+D:\Kuliah\Semester4\PrakPBO\TP\TP1\TP1\obj\Debug\TP1.Properties.Resources.resources
+D:\Kuliah\Semester4\PrakPBO\TP\TP1\TP1\obj\Debug\TP1.csproj.GenerateResource.cache
+D:\Kuliah\Semester4\PrakPBO\TP\TP1\TP1\obj\Debug\TP1.exe
+D:\Kuliah\Semester4\PrakPBO\TP\TP1\TP1\obj\Debug\TP1.pdb
+D:\Kuliah\Semester4\PrakPBO\TP\TP1\TP1\obj\Debug\TP1.MenuUtama.resources

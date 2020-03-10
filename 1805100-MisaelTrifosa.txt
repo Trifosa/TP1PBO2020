@@ -1,0 +1,22 @@
+Saya Misael Trifosa mengerjakan evaluasi TP1 dalam mata kuliah Pemrograman Berorientasi Objek
+untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
+Kesulitan :
+- Kadang pas cari cara di internet, ketemunya dalam bahasa XAML, bukan C#
+- Bingung cara membuat icon untuk button
+- Tidak hafal class apa saja yang bisa dipakai di Visual Studio (seperti String.Equal, Form Hide, dan lain-lain)
+- Tidak tahu cara menutup form yang sudah disembunyikan
+- Tidak terbayang apa yang harus diketik untuk menu beli dan gambar-gambar yang harus sudah ada di menu utama
+
+Hal yang baru dipelajari:
+- membandingkan string bukan menggunakan strcmp, tapi pakai String.Equals
+- jika ada 2 form, bisa memanggil form kedua dari form pertama
+- membuat link ke web lain
+- menyembunyikan form
+- button bisa diberi gambar
+- perintah untuk pergi ke link yang ada di LinkLabel bisa digunakan di Button sehingga jadi LinkButton
+
+Fitur yang sudah dikerjakan:
+- Form login sudah jalan dan jika login benar akan pindah ke form menu utama, jika salah ada pesan salah
+- Menu Katalog di form menu utama sudah bisa mengarahkan ke website e-commerce
+- Log Out sudah bisa kembali ke Form Login
